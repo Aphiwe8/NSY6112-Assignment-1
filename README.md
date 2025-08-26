@@ -1,1 +1,1 @@
-# NSY6112-Assignment-1
+# INSY6112-Assignment-1
